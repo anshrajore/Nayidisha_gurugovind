@@ -10,8 +10,7 @@
 
 - **Team Name**: Dark Arcane  
 - **Team Members**:  
-  - Ansh Rajore  
-  - Tanvi Diwakar    
+  - Ansh Rajore     
 - **Contact**:  
   - Email: anshrajore1266@gmail.com  
   - Phone: +91 9096946604
